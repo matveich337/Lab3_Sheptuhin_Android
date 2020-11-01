@@ -1,0 +1,6 @@
+<resources>
+    <string name="textView1">Enter your text here</string>
+    <string name="textView2">Type something...</string>
+    <string name="name">ApplicationMatvey</string>
+    <string name="submit">submit</string>
+</resources>
